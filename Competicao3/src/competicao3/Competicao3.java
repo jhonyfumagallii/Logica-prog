@@ -1,0 +1,70 @@
+package competicao3;
+import java.util.Scanner;
+public class Competicao3 {
+
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+        double cont = 150 ;
+        System.out.println(cont);
+        cont = cont+3;
+        System.out.println(cont);
+        cont = cont+3;
+        System.out.println(cont);
+        cont = cont+3;
+        System.out.println(cont);
+        cont = cont+3;
+        System.out.println(cont);
+        cont = cont + 3;
+        System.out.println(cont);
+        cont = cont+3;
+        System.out.println(cont);
+        cont = cont+3;
+        System.out.println(cont);
+        cont = cont+3;
+        System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;System.out.println(cont);
+        cont = cont+3;
+    }
+    
+}
